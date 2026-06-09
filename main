@@ -13,7 +13,7 @@ GUI r
 DELAY 200
 DELETE
 REPEAT 4
-STRING https://search.brave.com/images?q=weenys&source=web
+STRING https://search.brave.com/images?q=wieener&source=web
 ENTER
 DELAY 10000
 GUI R
